@@ -13,14 +13,11 @@ IP-CIDR,103.115.43.2/32,no-resolve
 # 佳明国际
 DOMAIN-SUFFIX,garmin.com
 
-
-
 # 影视
 DOMAIN-SUFFIX,opensubtitles.com
 DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,outside-maps.com
 DOMAIN-SUFFIX,ir-max.ru
-
 
 # 国外DNS
 # DOMAIN-SUFFIX,dns.google #使用谷歌策略

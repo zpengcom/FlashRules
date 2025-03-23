@@ -42,7 +42,6 @@ IP-CIDR,94.237.67.55/32,no-resolve
 IP-CIDR,35.186.199.111/32,no-resolve
 DOMAIN-SUFFIX,netbird.io
 
-
 # 划词翻译
 DOMAIN-SUFFIX,hcfy.ai
 
@@ -68,7 +67,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -78,7 +76,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
