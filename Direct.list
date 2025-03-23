@@ -20,6 +20,38 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内镜像
 DOMAIN-SUFFIX,hf-mirror.com
 
+#佳明中国
+DOMAIN-SUFFIX,garmin.cn
+# 佳明CDN 
+DOMAIN-SUFFIX,static.garmincdn.com
+
+DOMAIN-SUFFIX,strava.com
+
+DOMAIN-SUFFIX,pushbullet.com
+DOMAIN-SUFFIX,eztvx.to
+DOMAIN-SUFFIX,bigfangroup.org
+
+# tailscaled	
+IP-CIDR,43.245.49.83/32,no-resolve
+IP-CIDR,18.199.123.246/32,no-resolve
+IP-CIDR,103.84.155.188/32,no-resolve
+IP-CIDR,104.21.13.5/32,no-resolve
+
+# netbird	
+IP-CIDR,94.237.67.55/32,no-resolve
+IP-CIDR,35.186.199.111/32,no-resolve
+DOMAIN-SUFFIX,netbird.io
+
+
+# 划词翻译
+DOMAIN-SUFFIX,hcfy.ai
+
+DOMAIN-SUFFIX,titrari.ro
+
+DOMAIN-SUFFIX,notion.so
+
+DOMAIN-SUFFIX,subsplease.org
+
 # midjourney
 DOMAIN-SUFFIX,midjourney.ghost.io
 DOMAIN-SUFFIX,midjourney.com
