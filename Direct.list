@@ -55,6 +55,12 @@ DOMAIN-SUFFIX,subsplease.org
 DOMAIN-SUFFIX,midjourney.ghost.io
 DOMAIN-SUFFIX,midjourney.com
 
+
+# 直播
+DOMAIN-SUFFIX,jrs33.com
+DOMAIN-SUFFIX,xndezx.com
+DOMAIN-SUFFIX,yoozhibo.net
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
