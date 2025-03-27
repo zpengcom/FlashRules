@@ -61,6 +61,10 @@ DOMAIN-SUFFIX,jrs33.com
 DOMAIN-SUFFIX,xndezx.com
 DOMAIN-SUFFIX,yoozhibo.net
 
+# 游戏
+DOMAIN-SUFFIX,img-eshop.cdn.nintendo.net
+
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
