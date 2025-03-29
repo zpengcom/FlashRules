@@ -20,6 +20,14 @@ DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,outside-maps.com
 DOMAIN-SUFFIX,ir-max.ru
 
+# 直播
+DOMAIN-SUFFIX,jrkan.com
+DOMAIN-SUFFIX,jrskan8.com
+DOMAIN-SUFFIX,jrs17.com
+DOMAIN-SUFFIX,jrs18.com
+DOMAIN-SUFFIX,jrs33.com
+
+
 # 国外DNS
 # DOMAIN-SUFFIX,dns.google #使用谷歌策略
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
