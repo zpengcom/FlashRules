@@ -14,6 +14,12 @@ IP-CIDR,103.115.43.2/32,no-resolve
 # 佳明国际
 DOMAIN-SUFFIX,garmin.com
 
+# 速卖通（可直连）
+DOMAIN-SUFFIX,aliexpress.com
+
+# 证券
+DOMAIN-SUFFIX,futunn.com
+
 # 影视
 DOMAIN-SUFFIX,opensubtitles.com
 DOMAIN-SUFFIX,awswaf.com
