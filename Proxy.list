@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,aliexpress.com
 # 证券
 DOMAIN-SUFFIX,futunn.com
 
+DOMAIN-SUFFIX,nba.com
+
 # 影视
 DOMAIN-SUFFIX,opensubtitles.com
 DOMAIN-SUFFIX,awswaf.com
