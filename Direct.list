@@ -101,7 +101,7 @@ DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,aliexpress.com
+# DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
@@ -385,10 +385,11 @@ DOMAIN-SUFFIX,xunlei.com
 
 
 # Public Direct CDN 公共直连
-#DOMAIN-SUFFIX,ajax.aspnetcdn.com
-#DOMAIN-SUFFIX,ajax.cloudflare.com
-#DOMAIN-SUFFIX,cdnjs.cloudflare.com
-#DOMAIN-SUFFIX,code.jquery.com
+# DOMAIN-SUFFIX,ajax.aspnetcdn.com
+# DOMAIN-SUFFIX,ajax.cloudflare.com
+# DOMAIN-SUFFIX,cdnjs.cloudflare.com
+# DOMAIN-SUFFIX,cloudflarestorage.com
+# DOMAIN-SUFFIX,code.jquery.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
@@ -639,3 +640,5 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# 其它
