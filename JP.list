@@ -1,0 +1,6 @@
+# 内容：日本地区专用
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+
+DOMAIN-SUFFIX,printables.com
+DOMAIN-SUFFIX,note.com
