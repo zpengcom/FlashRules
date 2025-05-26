@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,prod.adobegenuine.com
     
 DOMAIN-SUFFIX,"*.adobe.io"
 DOMAIN-SUFFIX,b5kbg2ggog.adobe.io
+
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,adobeccstatic.com
