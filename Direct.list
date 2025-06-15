@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,nas
 DOMAIN,clash.razord.top
 DOMAIN,yacd.haishan.me
 
+DOMAIN-KEYWORD,makerworld
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
