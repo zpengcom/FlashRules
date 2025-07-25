@@ -52,6 +52,9 @@ IP-CIDR,94.237.67.0/24,no-resolve
 IP-CIDR,35.186.199.0/24,no-resolve
 DOMAIN-SUFFIX,netbird.io
 
+DOMAIN-SUFFIX,autodesk.com
+
+
 # 划词翻译
 DOMAIN-SUFFIX,hcfy.ai
 
