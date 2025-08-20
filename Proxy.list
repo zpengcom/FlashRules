@@ -147,7 +147,8 @@ DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,loader.to
 DOMAIN-SUFFIX,thehueforge.com
 DOMAIN-SUFFIX,avistaz.to
+DOMAIN-SUFFIX,wplace.live
 
-DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-KEYWORD,roblox
+DOMAIN-SUFFIX,roblox.qq.com
