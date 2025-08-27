@@ -58,7 +58,7 @@ IP-CIDR,208.67.220.220/32,no-resolve
 #资源下载网盘
 DOMAIN-SUFFIX,send.cm
 DOMAIN-SUFFIX,send.now
-
+DOMAIN-SUFFIX,file-upload.com
 
 # 其它
 DOMAIN-SUFFIX,themirageframe.com
