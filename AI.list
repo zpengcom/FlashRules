@@ -19,10 +19,14 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,seaart.ai
@@ -36,6 +40,5 @@ DOMAIN-SUFFIX,civitai.green
 DOMAIN-KEYWORD,framelink.ai
 DOMAIN-SUFFIX,gradio.app
 DOMAIN-SUFFIX,hitem3d.ai
-DOMAIN-SUFFIX,ai.studio
 
 
