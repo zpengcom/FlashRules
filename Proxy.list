@@ -14,6 +14,9 @@ IP-CIDR,103.115.43.2/32,no-resolve
 # 佳明国际
 DOMAIN-SUFFIX,garmin.com
 
+DOMAIN-SUFFIX,pixabay.com
+
+
 # 速卖通（可直连）
 DOMAIN-SUFFIX,aliexpress.com
 
