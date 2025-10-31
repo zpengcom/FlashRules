@@ -29,9 +29,14 @@ IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国内镜像
 DOMAIN-SUFFIX,hf-mirror.com
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,xethub.hf.co
+DOMAIN-SUFFIX,modelscope.cn
+DOMAIN-KEYWORD,cdn-lfs-cn
 
 #佳明中国
 DOMAIN-SUFFIX,garmin.cn
+
 # 佳明CDN 
 DOMAIN-SUFFIX,static.garmincdn.com
 
@@ -65,11 +70,10 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,subsplease.org
 
 # midjourney
-DOMAIN-SUFFIX,midjourney.ghost.io
-DOMAIN-SUFFIX,midjourney.com
+# DOMAIN-SUFFIX,midjourney.ghost.io
+# DOMAIN-SUFFIX,midjourney.com
 
 
-modelscope.cn
 
 # 直播
 DOMAIN-SUFFIX,jrs33.com
