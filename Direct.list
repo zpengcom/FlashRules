@@ -70,8 +70,8 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,subsplease.org
 
 # midjourney
-# DOMAIN-SUFFIX,midjourney.ghost.io
-# DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,midjourney.ghost.io
+DOMAIN-SUFFIX,midjourney.com
 
 
 
