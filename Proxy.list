@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,garmin.com
 
 DOMAIN-SUFFIX,pixabay.com
 
+# python加速
+DOMAIN-SUFFIX,pythonhosted.org
 
 # 速卖通（可直连）
 DOMAIN-SUFFIX,aliexpress.com
