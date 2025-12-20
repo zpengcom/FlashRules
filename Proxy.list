@@ -33,10 +33,11 @@ DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,outside-maps.com
 DOMAIN-SUFFIX,ir-max.ru
 DOMAIN-KEYWORD,iyf
-DOMAIN-KEYWORD,iyf
+DOMAIN-SUFFIX,pipecdn.vip
 DOMAIN-KEYWORD,s111-e1
 DOMAIN-KEYWORD,s3-e1
 DOMAIN-SUFFIX,service.signalr.net
+DOMAIN-SUFFIX,dudupro.com
 # 直播
 DOMAIN-SUFFIX,jrkan.com
 DOMAIN-SUFFIX,jrskan8.com
