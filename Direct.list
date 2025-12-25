@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,midea.com
 DOMAIN-SUFFIX,msmartlife.com
 DOMAIN-SUFFIX,tmallgenie.com
 DOMAIN-SUFFIX,aligenie.com
+DOMAIN-KEYWORD,ezviz
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
